@@ -15,5 +15,5 @@ output = cv2.warpPerspective(img, matrix, (width, height))
 cv2.imshow("Img", img)
 cv2.imshow("Output", output)
 
-file = "WarpImage.jpg"
+
 cv2.waitKey(0)
