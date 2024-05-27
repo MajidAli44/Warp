@@ -17,4 +17,3 @@ cv2.imshow("Output", output)
 
 
 cv2.waitKey(0)
-# Majid Ali
